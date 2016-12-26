@@ -1,6 +1,4 @@
 # Tagger 
-by Jared **"Bayou"** Wong
-
 Small library written in NLTK + Python with tremendous potential.  Categorizes data from various sources of written work and a set of dictionaries into a single comprehensive Markov matrix, and is able to reproduce the tone of the input works with randomly generated text (using probabilities generated from a given dataset). Highly modular design allows for simple modification/augmentation. 
 
 ## Setup
@@ -23,7 +21,6 @@ Place data files to be tagged into the training folder.  Run `run.sh` to tag the
 Coming soon!
 
 ## Projects that use Tagger
->> ```I might be wrong, but I'm pretty sure it's the tag that moves``` -- Rachit Agarawal
 
 * [**ForkMe**](https://github.com/aliu139/forkme)
 
